@@ -1,8 +1,5 @@
 # Tutorial Docking 2 Molekul
-## Buatkan PATH
-Yang harus dimasukaan dalam path ada 4 yaitu:
-1. C:\Program Files (x86)\MGLTools-1.5.7,
-2. C:\Program Files (x86)\ADFRsuite-1.0\bin and the location folder
+
 
 ## Perangkat lunak yang dibutuhkan 
 1. ADFR Tools (Version 1.2) https://ccsb.scripps.edu/adfr/download/1067/
@@ -12,6 +9,13 @@ Yang harus dimasukaan dalam path ada 4 yaitu:
 5. Chimera https://www.cgl.ucsf.edu/chimera/cgi-bin/secure/chimera-get.py?file=win64/chimera-1.16-win64.exe
 6. Marvin Sketch https://drive.google.com/file/d/18WN28mtb_ayVKFc09CgDaI5VBJVdESm9/view?usp=sharing
 
+## Buatkan PATH
+
+Yang harus dimasukaan dalam path ada 4 yaitu:
+
+1. C:\Program Files (x86)\MGLTools-1.5.7,
+
+2. C:\Program Files (x86)\ADFRsuite-1.0\bin and the location folder
 ## Preparasi Dua Molekul
 1. Download Beta Cyclodextrin dan Fluconazole di Pubchem [https://pubchem.ncbi.nlm.nih.gov/compound/beta-CYCLODEXTRIN](https://pubchem.ncbi.nlm.nih.gov/compound/Fluconazole) dan https://pubchem.ncbi.nlm.nih.gov/compound/Amphotericin-b#section=2D-Structure
 2. Lakukan optimasi geometri dengan menggunakan Avogadro dengan medan gaya amber 
