@@ -29,3 +29,7 @@ Klik ligand-output-save as dengan lig.pdbqt
 3. Upload semua file yang dipreparasi tadi ke google colab
 4. Jalankan google colab
 5. Download file final.pdb
+6. Download file dengan format lig.dlg
+
+## Catatan
+1. Jika hasil dockingnya positif dan menjauhi dari jaraknya tukar mana obat yang menjadi rec.pdb dan lig.pdb pada step 3 pada preparasi molekul
