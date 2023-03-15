@@ -9,7 +9,7 @@
 6. Marvin Sketch https://drive.google.com/file/d/18WN28mtb_ayVKFc09CgDaI5VBJVdESm9/view?usp=sharing
 
 ## Preparasi Dua Molekul
-1. Download Beta Cyclodextrin dan Amfoterisin B di Pubchem https://pubchem.ncbi.nlm.nih.gov/compound/beta-CYCLODEXTRIN dan https://pubchem.ncbi.nlm.nih.gov/compound/Amphotericin-b#section=2D-Structure
+1. Download Beta Cyclodextrin dan Fluconazole di Pubchem [https://pubchem.ncbi.nlm.nih.gov/compound/beta-CYCLODEXTRIN](https://pubchem.ncbi.nlm.nih.gov/compound/Fluconazole) dan https://pubchem.ncbi.nlm.nih.gov/compound/Amphotericin-b#section=2D-Structure
 2. Lakukan optimasi geometri dengan menggunakan Avogadro dengan medan gaya amber 
 3. Simpan dalam format .pdb. Ubah nama Beta Cyclodextrin sebagai rec.pdb dan fluconazole sebagai lig.pdb
 4. Buka file Autodock Tools, preparasi rec.pdb dengan cara Klik File Read Molecules cari protein dengan nama rec.pdb >
