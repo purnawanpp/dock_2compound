@@ -1,4 +1,8 @@
 # Tutorial Docking 2 Molekul
+## Buatkan PATH
+Yang harus dimasukaan dalam path ada 4 yaitu:
+1. C:\Program Files (x86)\MGLTools-1.5.7,
+2. C:\Program Files (x86)\ADFRsuite-1.0\bin and the location folder
 
 ## Perangkat lunak yang dibutuhkan 
 1. ADFR Tools (Version 1.2) https://ccsb.scripps.edu/adfr/download/1067/
