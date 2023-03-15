@@ -11,7 +11,7 @@
 
 ## Buatkan PATH
 
-Yang harus dimasukaan dalam path ada 4 yaitu:
+Yang harus dimasukaan dalam path ada 2 yaitu:
 
 1. C:\Program Files (x86)\MGLTools-1.5.7,
 
