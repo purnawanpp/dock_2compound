@@ -25,4 +25,5 @@ Klik ligand-output-save as dengan lig.pdbqt
 
 ## Simulasi Molecular Docking 
 1. Jalankan script berikut di google colab: https://github.com/purnawanpp/dock_2compound/blob/main/Autodock_GPU.ipynb
-2. Upload semua file yang dipreparasi tadi ke google colab
+2. Pilih Runtime > change Runtime Type > pilih GPU > Save
+3. Upload semua file yang dipreparasi tadi ke google colab
