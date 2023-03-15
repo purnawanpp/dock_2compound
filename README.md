@@ -1,14 +1,13 @@
 # Tutorial Docking 2 Molekul
-## Software yang dibutuhkan
-# Perangkat lunak yang dibutuhkan 
-1. Vina.exe (Version 1.2.3) download disini https://github.com/ccsb-scripps/AutoDock-Vina/releases/download/v1.2.3/vina_1.2.3_windows_x86_64.exe, vina_1.2.3_windows_x86_64.exe ubah namanya menjadi vina.exe atau download dari link berikut: https://drive.google.com/file/d/1DBAsOPNDttz1ktoONc-EsCFT3IWHFjbj/view?usp=sharing
-2. ADFR Tools (Version 1.2) https://ccsb.scripps.edu/adfr/download/1067/
-3. Mgl Tools (Version 1.5.7) https://ccsb.scripps.edu/download/262/
-4. Vina_Split https://github.com/purnawanpp/Docking-4ieh/blob/main/vina_split.exe
-5. Windows terminal https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701
-6. Avogadro (Version 1.2) https://drive.google.com/file/d/1DzRjlV0pYcBXxgXDfhlkOl55sLogvPEB/view?usp=sharing
-7. Chimera https://discover.3ds.com/discovery-studio-visualizer-download
-8. Marvin Sketch https://drive.google.com/file/d/18WN28mtb_ayVKFc09CgDaI5VBJVdESm9/view?usp=sharing
+
+## Perangkat lunak yang dibutuhkan 
+1. ADFR Tools (Version 1.2) https://ccsb.scripps.edu/adfr/download/1067/
+2. Mgl Tools (Version 1.5.7) https://ccsb.scripps.edu/download/262/
+3. Windows terminal https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701
+4. Avogadro (Version 1.2) https://drive.google.com/file/d/1DzRjlV0pYcBXxgXDfhlkOl55sLogvPEB/view?usp=sharing
+5. Chimera https://www.cgl.ucsf.edu/chimera/cgi-bin/secure/chimera-get.py?file=win64/chimera-1.16-win64.exe
+6. Marvin Sketch https://drive.google.com/file/d/18WN28mtb_ayVKFc09CgDaI5VBJVdESm9/view?usp=sharing
+
 ## Preparasi Dua Molekul
 1. Download Beta Cyclodextrin dan Amfoterisin B di Pubchem https://pubchem.ncbi.nlm.nih.gov/compound/beta-CYCLODEXTRIN dan https://pubchem.ncbi.nlm.nih.gov/compound/Amphotericin-b#section=2D-Structure
 2. Lakukan optimasi geometri dengan menggunakan Avogadro dengan medan gaya amber 
@@ -26,3 +25,4 @@ Klik ligand-output-save as dengan lig.pdbqt
 
 ## Simulasi Molecular Docking 
 1. Jalankan script berikut di google colab: https://github.com/purnawanpp/dock_2compound/blob/main/Autodock_GPU.ipynb
+2. Upload semua file yang dipreparasi tadi ke google colab
