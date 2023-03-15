@@ -18,7 +18,7 @@ Yang harus dimasukaan dalam path ada 2 yaitu:
 2. C:\Program Files (x86)\ADFRsuite-1.0\bin and the location folder
 ## Preparasi Dua Molekul
 1. Download Beta Cyclodextrin dan Fluconazole di Pubchem [https://pubchem.ncbi.nlm.nih.gov/compound/beta-CYCLODEXTRIN](https://pubchem.ncbi.nlm.nih.gov/compound/Fluconazole) dan https://pubchem.ncbi.nlm.nih.gov/compound/Amphotericin-b#section=2D-Structure
-2. Lakukan optimasi geometri dengan menggunakan Avogadro dengan medan gaya amber 
+2. Lakukan optimasi geometri dengan menggunakan Avogadro dengan medan gaya General Amber Force Field (GAFF)
 3. Simpan dalam format .pdb. Ubah nama Beta Cyclodextrin sebagai rec.pdb dan fluconazole sebagai lig.pdb
 4. Buka file Autodock Tools, preparasi rec.pdb dengan cara Klik File Read Molecules cari protein dengan nama rec.pdb >
 Dilakukan penambahan Hidrogen dengan Edit-Add Hidrogen-All > Edit tambahkan muatan gasteiger > Edit-Hidrogen Merge Non Polar > Grid-Macromolecules-Choose > save protein dengan rec.pdbqt
