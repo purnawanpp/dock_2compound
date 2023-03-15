@@ -28,3 +28,4 @@ Klik ligand-output-save as dengan lig.pdbqt
 2. Pilih Runtime > change Runtime Type > pilih GPU > Save
 3. Upload semua file yang dipreparasi tadi ke google colab
 4. Jalankan google colab
+5. Download file best.pdbqt
