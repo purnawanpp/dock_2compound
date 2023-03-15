@@ -11,7 +11,7 @@
 ## Preparasi Dua Molekul
 1. Download Beta Cyclodextrin dan Amfoterisin B di Pubchem https://pubchem.ncbi.nlm.nih.gov/compound/beta-CYCLODEXTRIN dan https://pubchem.ncbi.nlm.nih.gov/compound/Amphotericin-b#section=2D-Structure
 2. Lakukan optimasi geometri dengan menggunakan Avogadro dengan medan gaya amber 
-3. Simpan dalam format .pdb. Ubah nama Beta Cyclodextrin sebagai lig.pdb dan Amfoterisin B sebagai rec.pdb
+3. Simpan dalam format .pdb. Ubah nama Beta Cyclodextrin sebagai rec.pdb dan fluconazole sebagai lig.pdb
 4. Buka file Autodock Tools, preparasi rec.pdb dengan cara Klik File Read Molecules cari protein dengan nama rec.pdb >
 Dilakukan penambahan Hidrogen dengan Edit-Add Hidrogen-All > Edit tambahkan muatan gasteiger > Edit-Hidrogen Merge Non Polar > Grid-Macromolecules-Choose > save protein dengan rec.pdbqt
 5. Buka file Autodock Tools, preparasi lig.pdb dengan cara Dilakukan penambahan Hidrogen dengan Edit-Add Hidrogen-All >
